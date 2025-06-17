@@ -27,7 +27,7 @@ function Header() {
         <header className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 shadow-lg p-4 flex items-center justify-between">
             <div>
                 <Link to="/" className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                    JustLogo
+                    CryptoVault
                 </Link>
             </div>
             <nav>
